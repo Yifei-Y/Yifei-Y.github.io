@@ -45,6 +45,48 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/2024DORec_wu.jpg' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**$\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**
+
+Jun Wu, Sicheng Li, Sihui Ji, **Yifei Yang**, Yue Wang, Rong Xiong, Yiyi Liao
+
+[**arXiv**](https://arxiv.org/abs/2310.11092) /
+[**IEEE**](https://ieeexplore.ieee.org/document/10777610)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/2024SemSeg_yang.png' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**$\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**
+
+Yunxuan Mao, Bingqi Shen, **Yifei Yang**, Kai Wang, Rong Xiong, Yiyi Liao, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2404.18439) /
+[**IEEE**](https://ieeexplore.ieee.org/document/10801847)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/2024nuDBA_mao.png' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**$\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**
+
+Yunxuan Mao, Bingqi Shen, **Yifei Yang**, Kai Wang, Rong Xiong, Yiyi Liao, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2404.18439) /
+[**IEEE**](https://ieeexplore.ieee.org/document/10801847)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/2024SemSeg_yang.png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
