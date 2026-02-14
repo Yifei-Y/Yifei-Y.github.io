@@ -47,9 +47,11 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022ControlVAE_shao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Controllable Variational Autoencoders](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_Rethinking_Controllable_Variational_Autoencoders_CVPR_2022_paper.pdf)
+**Rethinking Controllable Variational Autoencoders**
 
 Huajie Shao\*, **Yifei Yang**\*, Haohong Lin\*, Longzhong Lin, Yizhuo Chen, Qinmin Yang, Han Zhao
+
+[**Pdf**](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_Rethinking_Controllable_Variational_Autoencoders_CVPR_2022_paper.pdf)
 
 </div>
 </div>
