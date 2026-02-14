@@ -59,7 +59,7 @@ Yuanbo Yang, **Yifei Yang**, Hanlei Guo, Rong Xiong, Yue Wang, Yiyi Liao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022ControlVAE_shao.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022ControlVAE_shao.png' alt="sym" width="81%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rethinking Controllable Variational Autoencoders**
