@@ -45,6 +45,20 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/2023UrbanGIRAFFE_yang.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields**
+
+Yuanbo Yang, **Yifei Yang**, Hanlei Guo, Rong Xiong, Yue Wang, Yiyi Liao
+
+[**arXiv**](https://arxiv.org/abs/2303.14167) /
+[**project**](https://lv3d.github.io/urbanGIRAFFE) /
+[**code**](https://github.com/freemty/urbanGIRAFFE)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022ControlVAE_shao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +66,7 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 Huajie Shao\*, **Yifei Yang**\*, Haohong Lin\*, Longzhong Lin, Yizhuo Chen, Qinmin Yang, Han Zhao
 
-[**Pdf**](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_Rethinking_Controllable_Variational_Autoencoders_CVPR_2022_paper.pdf)
+[**pdf**](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_Rethinking_Controllable_Variational_Autoencoders_CVPR_2022_paper.pdf)
 
 </div>
 </div>
