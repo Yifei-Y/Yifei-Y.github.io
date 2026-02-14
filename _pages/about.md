@@ -45,6 +45,22 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2025BayesVLA_xu.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**
+
+Kechun Xu, Zhenjie Zhu, Anzhe Chen, Shuqi Zhao, Qing Huang, **Yifei Yang**, Haojian Lu, Rong Xiong, Masayoshi Tomizuka, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2512.11218) /
+[**project**](https://xukechun.github.io/papers/BayesVLA) /
+[**code**](https://github.com/hhcaz/e2vla) /
+[**video**](https://www.bilibili.com/video/BV1eA63BHExy/)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/2025E2VLA_chen.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
