@@ -45,10 +45,26 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/2025PseudoTactile_yang.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**
+
+**Yifei Yang**, Lu Chen, Zherui Song, Yenan Chen, Wentao Sun, Zhongxiang Zhou, Rong Xiong, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2503.23835) /
+[**IEEE**](https://ieeexplore.ieee.org/document/11246513) /
+[**project**](https://yifei-y.github.io/project-pages/Pseudo-Tactile-Feedback/)
+[**video**](https://www.bilibili.com/video/BV1DZZxYGEk6/?vd_source=16bffa885f8d40c0678b340384dd56db)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/2024DORec_wu.jpg' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**$\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**
+**DORec: Decomposed Object Reconstruction and Segmentation Utilizing 2D Self-Supervised Features**
 
 Jun Wu, Sicheng Li, Sihui Ji, **Yifei Yang**, Yue Wang, Rong Xiong, Yiyi Liao
 
