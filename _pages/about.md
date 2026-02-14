@@ -45,6 +45,23 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/2025A2C_xu.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter**
+
+Kechun Xu, Xunlong Xia, Kaixuan Wang, **Yifei Yang**, Yunxuan Mao, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2503.09423) /
+[**IEEE**](https://ieeexplore.ieee.org/document/11152358) /
+[**project**](https://xukechun.github.io/papers/A2) /
+[**code**](https://github.com/xukechun/Action-Prior-Alignment) /
+[**video**](https://www.bilibili.com/video/BV1dPX4YzEzk/?spm_id_from=333.1391.0.0)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/2025PseudoTactile_yang.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +71,7 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 [**arXiv**](https://arxiv.org/abs/2503.23835) /
 [**IEEE**](https://ieeexplore.ieee.org/document/11246513) /
-[**project**](https://yifei-y.github.io/project-pages/Pseudo-Tactile-Feedback/)
+[**project**](https://yifei-y.github.io/project-pages/Pseudo-Tactile-Feedback/) /
 [**video**](https://www.bilibili.com/video/BV1DZZxYGEk6/?vd_source=16bffa885f8d40c0678b340384dd56db)
 
 </div>
