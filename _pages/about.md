@@ -45,6 +45,21 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/2024SemSeg_yang.png' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Class Semantics Modulation for Open-Set Instance Segmentation**
+
+**Yifei Yang**, Zhongxiang Zhou, Jun Wu, Yue Wang, Rong Xiong
+
+[**IEEE**](https://ieeexplore.ieee.org/document/10388394) /
+[**project**](https://yifei-y.github.io/project-pages/SemSeg/) /
+[**code**](https://github.com/Yifei-Y/SemSeg)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2023</div><img src='images/2023OpensetRCNN_zhou.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
