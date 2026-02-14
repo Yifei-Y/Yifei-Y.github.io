@@ -24,9 +24,10 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026.01*: &nbsp;🎉 <a href="https://arxiv.org/abs/2509.14630">E2VLA</a> is accepted by ICRA 2026. 
+- *2025.08*: &nbsp;🎉 <a href="https://arxiv.org/abs/2503.09423">A2</a> is accepted by TASE 2025.
+- *2025.06*: &nbsp;🎉 <a href="https://arxiv.org/abs/2503.23835">PTDGS</a> is accepted by IROS 2025.
 
 # 📝 Publications 
 
