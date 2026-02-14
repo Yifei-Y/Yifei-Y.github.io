@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year PhD (Sep. 2022 - ) student in Control Science and Engineering department at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>. I belong to Robotics Lab, advised by Prof. <a href="https://ywang-zju.github.io/">Yue Wang</a> and <a href="https://person.zju.edu.cn/en/rongxiong">Rong Xiong. I obtained my B.Eng (Sep. 2018 - Jun. 2022) in Control Science and Engineering from Zhejiang University with an honor degree at Chu Kochen Honor College.
+I am a fourth-year PhD (Sep. 2022 - ) student in Control Science and Engineering department at <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>. I belong to Robotics Lab, advised by Prof. <a href="https://ywang-zju.github.io/">Yue Wang</a> and <a href="https://person.zju.edu.cn/en/rongxiong">Rong Xiong</a>. I obtained my B.Eng (Sep. 2018 - Jun. 2022) in Control Science and Engineering from Zhejiang University with an honor degree at Chu Kochen Honor College.
 
 My current research interests lie in robotic manipulation and embodied AI. My prior work also includes computer vision.
 
