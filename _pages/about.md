@@ -51,6 +51,7 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 **Open-Set Object Detection Using Classification-free Object Proposal and Instance-level Contrastive Learning**
 
 Zhongxiang Zhou, **Yifei Yang**, Yue Wang, Rong Xiong
+
 [**arXiv**](https://arxiv.org/abs/2211.11530) /
 [**IEEE**](https://ieeexplore.ieee.org/document/10035923) /
 [**project**](https://sites.google.com/view/openset-rcnn/) /
@@ -86,6 +87,7 @@ Huajie Shao\*, **Yifei Yang**\*, Haohong Lin\*, Longzhong Lin, Yizhuo Chen, Qinm
 
 </div>
 </div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
