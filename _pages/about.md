@@ -45,6 +45,21 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2023</div><img src='images/2023OpensetRCNN_zhou.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Open-Set Object Detection Using Classification-free Object Proposal and Instance-level Contrastive Learning**
+
+Zhongxiang Zhou, **Yifei Yang**, Yue Wang, Rong Xiong
+[**arXiv**](https://arxiv.org/abs/2211.11530) /
+[**IEEE**](https://ieeexplore.ieee.org/document/10035923) /
+[**project**](https://sites.google.com/view/openset-rcnn/) /
+[**code**](https://github.com/Yifei-Y/Openset-RCNN)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/2023UrbanGIRAFFE_yang.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +73,7 @@ Yuanbo Yang, **Yifei Yang**, Hanlei Guo, Rong Xiong, Yue Wang, Yiyi Liao
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022ControlVAE_shao.png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
