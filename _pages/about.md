@@ -45,6 +45,20 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/2025E2VLA_chen.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Toward Embodiment Equivariant Vision-Language-Action Policy**
+
+Anzhe Chen, **Yifei Yang**, Zhenjie Zhu, Kechun Xu, Zhongxiang Zhou, Rong Xiong, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2509.14630) /
+[**code**](https://github.com/hhcaz/e2vla)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/2025A2C_xu.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
