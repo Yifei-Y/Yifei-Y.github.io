@@ -45,6 +45,20 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2026DirectionMatters_yang.gif' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Direction Matters: Learning Force Direction Enables Sim-to-Real Contact-Rich Manipulation**
+
+**Yifei Yang**, Anzhe Chen, Zhenjie Zhu, Kechun Xu, Yunxuan Mao, Yufei Wei, Lu Chen, Rong Xiong, Yue Wang
+
+[**arXiv**](https://arxiv.org/abs/2602.14174) /
+[**project**](https://yifei-y.github.io/project-pages/DirectionMatters/) /
+[**video**](https://www.bilibili.com/video/BV1ShZkB5EHj)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2025BayesVLA_xu.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
