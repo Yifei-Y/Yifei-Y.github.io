@@ -219,7 +219,8 @@ Huajie Shao\*, **Yifei Yang**\*, Haohong Lin\*, Longzhong Lin, Yizhuo Chen, Qinm
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2026.07 - *, [Alibaba Damo Academy](https://damo.alibaba.com/?language=zh), China.
+- *2024.02 - 2025.07*, [ZJ Humanoid](https://www.zj-humanoid.com/), China
