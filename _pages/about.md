@@ -222,5 +222,5 @@ Huajie Shao\*, **Yifei Yang**\*, Haohong Lin\*, Longzhong Lin, Yizhuo Chen, Qinm
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.07 - *, [Alibaba Damo Academy](https://damo.alibaba.com/?language=zh), China.
+- *2026.07 -*, [Alibaba Damo Academy](https://damo.alibaba.com/?language=zh), China.
 - *2024.02 - 2025.07*, [ZJ Humanoid](https://www.zj-humanoid.com/), China
