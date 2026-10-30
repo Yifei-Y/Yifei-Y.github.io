@@ -25,6 +25,7 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 <a href="https://arxiv.org/abs/2610.32965">RynnUnify</a> is released with report, code and model.
 - *2026.09*: &nbsp;🎉 <a href="https://arxiv.org/abs/2602.14174">TDC</a> is accepted by CoRL 2026. 
 - *2026.01*: &nbsp;🎉 <a href="https://arxiv.org/abs/2509.14630">E2VLA</a> is accepted by ICRA 2026. 
 - *2025.08*: &nbsp;🎉 <a href="https://arxiv.org/abs/2503.09423">A2</a> is accepted by TASE 2025.
@@ -45,6 +46,21 @@ My current research interests lie in robotic manipulation and embodied AI. My pr
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/2026RynnUnify.jpg' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RynnUnify: Towards Unified Embodied Brain**
+
+**Core Contributor**
+
+[**arXiv**](https://arxiv.org/abs/2610.32965) /
+[**project**](https://alibaba-damo-academy.github.io/RynnUnify.github.io) /
+[**code**](https://github.com/alibaba-damo-academy/RynnUnify) /
+[**model**](https://huggingface.co/collections/Alibaba-DAMO-Academy/rynnunify)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='images/2026DirectionMatters_yang.gif' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
